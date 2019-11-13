@@ -1,0 +1,13 @@
+.jumbotron{
+    background-image: url('./images/img1.jpg');
+    background-size: cover;
+    background-position-y: 3%;
+    color: antiquewhite;
+
+}
+.info{
+    font-size: 0.9rem;
+}
+.second-footer{
+background-color: rgb(39, 39, 39);
+}
